@@ -25,4 +25,4 @@ Hi, I am Karan Singla, a passionate software developer who loves developing cool
 
 ## :bar_chart: Github Stats
 
-![Nihal's GitHub stats](https://github-readme-stats.vercel.app/api?username=codescientist703&count_private=true&theme=react)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=singlakaran&count_private=true&theme=react)
